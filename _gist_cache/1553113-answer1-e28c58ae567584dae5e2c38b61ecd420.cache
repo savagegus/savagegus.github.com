@@ -1,0 +1,16 @@
+fgrep -R title: * | awk '{$1 =""; print }' |grep :
+ Awesome Blog: I keep a diary
+ Tutorial: Use Coda with locally stored Django documentation - Small Victory
+ Liquidware Antipasto: The First 10 Things Everyone Does with their New Arduino
+ How to: Delete all photos off an iPhone by Colin Devroe
+ visualvm: Home
+ The Nation: The Migration Back To Local Banks : NPR
+ 30 Hour Drunk: Do You Have What it Takes?
+ rentzsch.tumblr.com: Pages-Only GitHub Projects
+ rentzsch.tumblr.com: Pages-Only GitHub Projects
+ Marco.org: The iPad doesn’t need to do everything
+ An Innovative Web: SaveTabs Safari Extension
+ From the Tips Box: Trimming Photos, Timed Shutdown, and Minimalist Twitter [From The Tips Box]
+ VMware Communities: VMware Project Onyx
+ Bash: parsing arguments with ‘getopts’
+ Swirl: some sugar for Tornado

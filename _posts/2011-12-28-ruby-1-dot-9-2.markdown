@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Ruby 1.9.2, Jekyll, and OS X"
+date: 2011-12-28 17:14
+comments: true
+categories: 
+---
+
+{% gist 1530870 %}

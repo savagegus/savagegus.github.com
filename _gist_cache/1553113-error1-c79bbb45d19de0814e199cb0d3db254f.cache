@@ -1,0 +1,22 @@
+rake generate                        
+(in /Users/matthew.finlayson/Dropbox/src/octopress)
+## Generating Site with Jekyll
+unchanged sass/screen.scss
+Configuration from /Users/matthew.finlayson/Dropbox/src/octopress/_config.yml
+Building site: source -> public
+/Users/matthew.finlayson/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/psych.rb:148:in `parse': couldn't parse YAML at line 4 column 0 (Psych::SyntaxError)
+	from /Users/matthew.finlayson/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/psych.rb:148:in `parse_stream'
+	from /Users/matthew.finlayson/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/psych.rb:119:in `parse'
+	from /Users/matthew.finlayson/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/psych.rb:106:in `load'
+	from /Users/matthew.finlayson/.rvm/gems/ruby-1.9.2-p290/gems/jekyll-0.11.0/lib/jekyll/convertible.rb:33:in `read_yaml'
+	from /Users/matthew.finlayson/.rvm/gems/ruby-1.9.2-p290/gems/jekyll-0.11.0/lib/jekyll/post.rb:39:in `initialize'
+	from /Users/matthew.finlayson/Dropbox/src/octopress/plugins/preview_unpublished.rb:23:in `new'
+	from /Users/matthew.finlayson/Dropbox/src/octopress/plugins/preview_unpublished.rb:23:in `block in read_posts'
+	from /Users/matthew.finlayson/Dropbox/src/octopress/plugins/preview_unpublished.rb:21:in `each'
+	from /Users/matthew.finlayson/Dropbox/src/octopress/plugins/preview_unpublished.rb:21:in `read_posts'
+	from /Users/matthew.finlayson/.rvm/gems/ruby-1.9.2-p290/gems/jekyll-0.11.0/lib/jekyll/site.rb:128:in `read_directories'
+	from /Users/matthew.finlayson/.rvm/gems/ruby-1.9.2-p290/gems/jekyll-0.11.0/lib/jekyll/site.rb:98:in `read'
+	from /Users/matthew.finlayson/.rvm/gems/ruby-1.9.2-p290/gems/jekyll-0.11.0/lib/jekyll/site.rb:38:in `process'
+	from /Users/matthew.finlayson/.rvm/gems/ruby-1.9.2-p290/gems/jekyll-0.11.0/bin/jekyll:250:in `<top (required)>'
+	from /Users/matthew.finlayson/.rvm/gems/ruby-1.9.2-p290/bin/jekyll:19:in `load'
+	from /Users/matthew.finlayson/.rvm/gems/ruby-1.9.2-p290/bin/jekyll:19:in `<main>'

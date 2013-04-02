@@ -1,16 +1,22 @@
 markdown: rdiscount
 pygments: true
-permalink: /posts/:title
+permalink: /:categories/:year/:month/:day/:title/
 auto: true
 rdiscount:
   extensions: [smart]
 title : unsure.org
 production_url : http://unsure.org
-description: "Througths, flamewars, utilities, tutorials, codes, projects and other things by Carlos Alexandro Becker."
+description: "The blog of matt finlayson."
 disqus_shortname: unsureorg
-analytics: UA-32899481-1
+analytics: UA-632866-6
 gauges: 50f2b533613f5d7c8000000c
 author :
   name : matthew finlayson
   github : savagegus
   twitter : savagegus
+environments:
+  production:
+    url: http://unsure.org
+    remote:
+      connection: matt@unsure.org
+      path: /home/matt/public_html/

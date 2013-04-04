@@ -1,7 +1,15 @@
 ---
 layout: post
-title: "Great Moments in Buzzco"
+title: Great Moments in Buzzco
 category: posts
+tags:
+- island
+- prince edward
+- united states
+- prince edward island
+- arts
+- maui
+- government
 ---
 <p>A little context. I had mentioned saying screw this and moving to Prince
 Edwards Island and starting a small company a couple days ago. This morning

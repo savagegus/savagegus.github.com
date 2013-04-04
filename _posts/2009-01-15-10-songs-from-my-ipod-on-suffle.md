@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "10 Songs from my iPod on Suffle"
+title: 10 Songs from my iPod on Suffle
 category: posts
+tags:
+- bishop allen
+- stephen malkmus
+- ipod
+- tv on the radio
+- dear science
 ---
 <blockquote cite="http://www.brunningonline.net/simon/blog/archives/001663.html"><p>1. Fire up your iPod.</p>
 <p>2. Set it to play your entire music collection.</p>

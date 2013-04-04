@@ -1,7 +1,16 @@
 ---
 layout: post
-title: "Make Firefox Faster"
+title: Make Firefox Faster
 category: posts
+tags:
+- address bar
+- about uri scheme
+- web page
+- context menu
+- firefox
+- web browser
+- proxying and filtering
+- hosted proxy services
 ---
 <p>
 <ol>

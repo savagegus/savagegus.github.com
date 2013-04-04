@@ -1,7 +1,16 @@
 ---
 layout: post
-title: "Snazzy Ubuntu things"
+title: Snazzy Ubuntu things
 category: posts
+tags:
+- ipv6
+- mozilla
+- kernel
+- sudo
+- advanced packaging tool
+- protocols
+- ip
+- ipv4
 ---
 <p>So I've been trolling through the ubuntu forums since they're really nice and still getting used to debian based system thing. I've come across 2 things that I didn't know about that helped a lot.</p>
 

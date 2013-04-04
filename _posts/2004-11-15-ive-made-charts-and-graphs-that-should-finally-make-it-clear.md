@@ -1,7 +1,16 @@
 ---
 layout: post
-title: "I've made charts and graphs that should finally make it clear."
+title: I've made charts and graphs that should finally make it clear.
 category: posts
+tags:
+- email address
+- betting in poker
+- firefox
+- clients
+- google chrome
+- browsers
+- www
+- opera
 ---
 <p>So, like usual it's been too long since I posted. Lots of things have happend etc, etc. First of buzzco and I beat X-Men legends. kinda anti climatic, but a cool game either way. Tim came up for a day last weekend and we damaged ourselves with suicide wings from planet wings.</p>
 

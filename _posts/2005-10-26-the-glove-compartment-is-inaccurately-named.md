@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "The glove compartment is inaccurately named"
+title: The glove compartment is inaccurately named
 category: posts
+tags:
+- lisa
+- lisa simpson
+- new york city
+- wednesday
+- whisky
 ---
 <p>Wednesday night Mike, Marie, Lisa, and I went down to NYC to see Deathcab for Cutie play.</p>
 

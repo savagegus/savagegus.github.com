@@ -1,7 +1,14 @@
 ---
 layout: post
-title: "PDX Food Carts"
+title: PDX Food Carts
 category: posts
+tags:
+- food cart
+- portland
+- food
+- san francisco
+- seattle
+- portland oregon
 ---
 <p><img src="http://farm3.static.flickr.com/2468/3549563756_fe1aeea10d.jpg"/><a href="http://www.flickr.com/photos/ame/"><a href="http://www.flickr.com/photos/ame/">http://www.flickr.com/photos/ame/</a></a> / <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</a></p>
 <p>Shortly after I moved to Portland I was at a business conference telling co-workers how much I liked it. Another dude at the table was from San Francisco turned to me and said,</p>

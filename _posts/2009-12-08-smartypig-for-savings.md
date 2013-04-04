@@ -1,7 +1,16 @@
 ---
 layout: post
-title: "SmartyPig for Savings"
+title: SmartyPig for Savings
 category: posts
+tags:
+- smartypig
+- credit card
+- debit card
+- layaway
+- bank account
+- iphone
+- federal deposit insurance corporation
+- saving
 ---
 <p><a href="http://www.smartypig.com/">SmartyPig</a> is a great tool for savings. It&#8217;s a bank account, but different. I&#8217;ve been using it for 6 months now and it&#8217;s helped my finances quite a bit and let me buy a few toys without feeling bad about it. It works pretty simply.</p>
 <p>You create a FDIC Insured Bank Account with <a href="http://www.smartypig.com/">SmartyPig</a>.</p>

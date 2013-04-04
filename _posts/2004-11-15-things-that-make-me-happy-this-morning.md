@@ -1,7 +1,16 @@
 ---
 layout: post
-title: "Things that make me happy this morning"
+title: Things that make me happy this morning
 category: posts
+tags:
+- bagel
+- home
+- cook
+- new york city
+- sesame
+- coffee
+- food
+- world literature
 ---
 <p>so far:</p>
 <ul>

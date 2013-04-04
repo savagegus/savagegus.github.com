@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Holiday Giving"
+title: Holiday Giving
 category: posts
+tags:
+- heifer international
+- alton brown
+- charity
+- animal
 ---
 <p>It&#8217;s the holiday season yet again. Usually I participate in holiday charities though work, but this year there doesn&#8217;t seem to be much going on in the office beyond yearly charity contribution commitments. I got a catalog from Heifer International yesterday and after a little bit of background checking I&#8217;ve decided that this year I&#8217;m going to go with it.</p>
 <p>I like the option of Bees in the catalog and the ability to donate as little as $10 for a concrete cause. You can find the <a href="http://www.heifer.org/site/c.edJRKQNiFiG/b.204586/?msource=pog">online catalog on their website</a>.</p>

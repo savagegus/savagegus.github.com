@@ -1,7 +1,16 @@
 ---
 layout: post
-title: "We're talking about unchecked aggression, here"
+title: We're talking about unchecked aggression, here
 category: posts
+tags:
+- kelly clarkson
+- arts
+- photography
+- grammy award
+- photographers
+- techniques and styles
+- shopping
+- fine art
 ---
 <p>I found a couple of old black and white photos at my clarkson webpage so I
 thought I'd put them online.

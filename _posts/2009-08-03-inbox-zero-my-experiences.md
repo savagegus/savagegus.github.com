@@ -1,7 +1,16 @@
 ---
 layout: post
-title: "Inbox Zero: My Experiences"
+title: ! 'Inbox Zero: My Experiences'
 category: posts
+tags:
+- inbox zero
+- mail
+- merlin mann
+- email spam
+- rss
+- internet archive
+- email
+- gmail
 ---
 <p>Inbox Zero
 </p><p>Inbox Zero is a concept that boils down nicely, email is taking up too much time. Most of us have a workload that exceeds our resources, you won&#8217;t be able to fix that problem but you can choose what takes up your time. My standard operating procedure for email was to check it when I logged into work, deal with some of the easy stuff, put most of it off, and eventually ignore most of it. For quite a while now I&#8217;ve been following most of the Inbox Zero tenets, for personal email it has never been too bad. Work email is another beast though and developing a process to deal with it has helped my mental sanity and productivity quite a bit. Also I get to brag on twitter about having nothing sitting in my inbox.</p>

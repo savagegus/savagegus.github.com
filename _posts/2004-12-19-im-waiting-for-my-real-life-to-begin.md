@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "I'm waiting for my real life to begin."
+title: I'm waiting for my real life to begin.
 category: posts
+tags:
+- thesis
+- master
+- united states
+- postgraduate research
 ---
 <p>As I fondled Cantia, my pillow girlfriend, I thought about how much things have changed in the past few weeks ...
 

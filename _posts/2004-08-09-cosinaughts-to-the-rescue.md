@@ -1,7 +1,16 @@
 ---
 layout: post
-title: "COSInaughts to the rescue"
+title: COSInaughts to the rescue
 category: posts
+tags:
+- linux
+- gnome
+- udev
+- gentoo linux
+- hal
+- desktop environment
+- operating systems
+- graphic subsystems
 ---
 <p>So the gnome desktop whore that is mr. eli dow brought me the solution I was looking for. udev, dbus, HAL, and gnome-volume-manager. Well he recoommended udev and hal. I got the rest from my old friend google. I will be setting it up tonight. Wish me luck. Here are the pertinent links:
 <ul>

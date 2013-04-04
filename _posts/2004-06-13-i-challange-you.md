@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "I challange you"
+title: I challange you
 category: posts
+tags:
+- emergency telephone number
+- football
+- austin peay state university
+- ohio valley conference
+- sports
 ---
 A while ago I talked about running a programming challenge for COSI. I finally found a problem that both ::buzzco:: and I thought would be cool to write up. I challenge anyone who reads this page to try it. I hope you guys all work on it, but don't post your solutions until July 13th. That gives everyone chance to give it a go even if time is short for them. Ok, the problem, I have a plastic puzzle toy that I've have for 10 years or so. I never solved it as it's much harder than it looks. It's a plastic soccer ball that is in pieces. But to state the problem more formally:
 
@@ -177,4 +183,3 @@ This is a 32 sided shape made up of 20 hexagons and 12 pentagons. The are not al
     </tr>
 </table>
 </td></tr></table>
-

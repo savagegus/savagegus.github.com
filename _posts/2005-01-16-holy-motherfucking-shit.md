@@ -1,7 +1,16 @@
 ---
 layout: post
-title: "Holy Motherfucking Shit."
+title: Holy Motherfucking Shit.
 category: posts
+tags:
+- debian installer
+- noah
+- doug
+- serial ata
+- airbag
+- debian
+- ubuntu
+- sata
 ---
 <p>Hello gentle readers, so I did it again. I hit a curb with my GTI, ruined
 the driverside wheel and deployed half my airbags. I'm ok but once again my

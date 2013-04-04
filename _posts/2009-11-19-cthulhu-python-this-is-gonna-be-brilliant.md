@@ -1,7 +1,16 @@
 ---
 layout: post
-title: "Cthulhu? Python? This is gonna be brilliant."
+title: Cthulhu? Python? This is gonna be brilliant.
 category: posts
+tags:
+- regular expression
+- beautifulsoup
+- html
+- cthulhu
+- python
+- parsing
+- programming
+- languages
 ---
 <p><a href="http://www.codinghorror.com/blog/">Coding Horror</a> is usually a good read, sometimes it&#8217;s just way too long and I skip it, but there are a few posts that are memorable. The one from earlier this week called <a href="http://www.codinghorror.com/blog/archives/001311.html">Parsing HTML the Cthulhu Way</a> was spectacular.</p>
 <blockquote>Even Jon Skeet cannot parse HTML using regular expressions. Every time you attempt to parse HTML with regular expressions, the unholy child weeps the blood of virgins, and Russian hackers pwn your webapp. Parsing HTML with regex summons tainted souls into the realm of the living. HTML and regex go together like love, marriage, and ritual infanticide. The &lt;center&gt; cannot hold it is too late. The force of regex and HTML together in the same conceptual space will destroy your mind like so much watery putty. If you parse HTML with regex you are giving in to Them and their blasphemous ways which doom us all to inhuman toil for the One whose Name cannot be expressed in the Basic Multilingual Plane, he comes.</blockquote>

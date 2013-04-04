@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "I don't want to sound queer or nothing, but I think unicorns are kickass."
+title: I don't want to sound queer or nothing, but I think unicorns are kickass.
 category: posts
+tags:
+- tristram stuart
+- london
+- arts and entertainment
+- food waste
+- religion and spirituality
 ---
 <p>
 <FONT COLOR="#16569E" sml="AIM/ICQ"><B>igottinyboobs:</B></FONT>tickle fight?<BR>

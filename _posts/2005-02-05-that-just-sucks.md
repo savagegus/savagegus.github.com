@@ -1,7 +1,16 @@
 ---
 layout: post
-title: "That just sucks."
+title: That just sucks.
 category: posts
+tags:
+- daylight saving time
+- windows
+- time zone
+- united states
+- clock
+- benjamin franklin
+- standard time act
+- cnn
 ---
 <p>The file which you have started editing has got another timestamp and the
 contents changed (more precisely: When reading the file again with the current

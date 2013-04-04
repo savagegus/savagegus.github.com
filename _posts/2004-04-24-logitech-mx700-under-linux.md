@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Logitech MX700 under linux"
+title: Logitech MX700 under linux
 category: posts
+tags:
+- mouse
+- logitech
+- usb
+- button
 ---
 <p>
     			Ok, so my mouse at work bites and I decided to pick a new one up. I got the Logitech MX700 (the same as steve) it is a wireless optical mouse with a charging station which is nice. Ok, so to set it up in linux:

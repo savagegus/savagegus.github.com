@@ -1,7 +1,14 @@
 ---
 layout: post
-title: "I don't know, what do you want to do?"
+title: I don't know, what do you want to do?
 category: posts
+tags:
+- fedora
+- fedora core 3
+- linux
+- gnome
+- operating systems
+- distributions
 ---
 <p>So, things have happened. In no particular order:</p>
 <ul>
@@ -24,4 +31,4 @@ category: posts
 	yet...</li>
 </ul>
 <p>That's about it. Most of these things would have been their own blog post but
-I just can't keep up with that kind of volume.</p> 
+I just can't keep up with that kind of volume.</p>

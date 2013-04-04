@@ -1,7 +1,14 @@
 ---
 layout: post
-title: "A reason for hair?"
+title: A reason for hair?
 category: posts
+tags:
+- kyle broflovski
+- badminton
+- kyle
+- shuttlecock
+- business and economy
+- united states
 ---
 <blockquote>
 (14:32:44) cfusion997: damn do i hate hair!

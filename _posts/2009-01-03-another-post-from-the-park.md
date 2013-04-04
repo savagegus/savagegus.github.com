@@ -1,7 +1,16 @@
 ---
 layout: post
-title: "Another post from the park"
+title: Another post from the park
 category: posts
+tags:
+- itunes
+- iphone
+- airport express
+- cups
+- ipod touch
+- apple
+- appstore
+- ipod
 ---
 <p style="text-align: center;"><a class="flickr-image" title="New Age Totem Pole" href="http://web.archive.org/web/20090105152817/http://www.flickr.com/photos/99797223@N00/3051049070/" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.flickr.com');"><img class="aligncenter" src="http://web.archive.org/web/20090105152817im_/http://farm4.static.flickr.com/3006/3051049070_678f5a94a4.jpg" alt="New Age Totem Pole" /></a></p>
 <p>It’s almost 9 and I’m stuck. I live between the willamette river and the railroad tracks. Wrong side of th etracks? Today, probably. 3 or 4 times a day the train goes by and If you don’t climb the massive set of stairs next to my apartmene is a gorgeous powder blue porshe) waiting for the train to clear the road.<br />

@@ -1,7 +1,16 @@
 ---
 layout: post
-title: "Java Plugin on Ubuntu"
+title: Java Plugin on Ubuntu
 category: posts
+tags:
+- java development kit
+- ubuntu
+- firefox
+- java
+- java applet
+- export
+- java virtual machine
+- java version history
 ---
 <p>Since a couple people have asked me about it here's what you need to do to get Java applets running on Ubuntu in Firefox. First get and install a JDK sun or ibm, doesn't matter. Not blackdown. Now put this in your .bashrc or /etc/profile:</p>
 <blockquote>

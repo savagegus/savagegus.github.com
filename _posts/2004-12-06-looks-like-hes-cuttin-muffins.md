@@ -1,9 +1,17 @@
 ---
 layout: post
-title: "Looks like he's cuttin' muffins"
+title: Looks like he's cuttin' muffins
 category: posts
+tags:
+- yeah
+- ben lee
+- flaming lips
+- karen o
+- walkmen
+- music
+- art
 ---
-    			<p>
+<p>
 1. Open up the music player on your computer.<br>
 2. Set it to play your entire music collection.<br>
 3. Hit the "shuffle" command.<br>

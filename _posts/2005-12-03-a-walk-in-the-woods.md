@@ -1,7 +1,16 @@
 ---
 layout: post
-title: "A Walk in the Woods"
+title: A Walk in the Woods
 category: posts
+tags:
+- arts
+- visual arts
+- galleries
+- weather
+- united states
+- winter
+- sports
+- new york city
 ---
 <p>Today Mike, Danielle, Jay and I went for a winter hike down in Cold Springs. It was like a 3 mile walk with a few obstacles.. I got a few good photos which are now in my gallery. You can see them in my <a href="http://web.archive.org/web/20060427163653/http://unsure.org/gallery/view_album.php?set_albumName=album01&page=1" title="Gallery"> gallery</a>.<br /></p>
 

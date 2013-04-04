@@ -1,9 +1,18 @@
 ---
 layout: post
-title: "Back to the Interweb"
+title: Back to the Interweb
 category: posts
+tags:
+- word processor
+- abiword
+- national novel writing month
+- apple
+- ps/2 connector
+- ebay
+- ibm
+- typewriter
 ---
-          <p style="text-align: center;"><a class="flickr-image" title="Alpha Smart Pro" href="http://web.archive.org/web/20090105152817/http://www.flickr.com/photos/99797223@N00/3025447256/" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.flickr.com');"><img class="aligncenter" src="http://web.archive.org/web/20090105152817im_/http://farm4.static.flickr.com/3222/3025447256_d721e13a75.jpg" alt="Alpha Smart Pro" /></a></p>
+<p style="text-align: center;"><a class="flickr-image" title="Alpha Smart Pro" href="http://web.archive.org/web/20090105152817/http://www.flickr.com/photos/99797223@N00/3025447256/" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.flickr.com');"><img class="aligncenter" src="http://web.archive.org/web/20090105152817im_/http://farm4.static.flickr.com/3222/3025447256_d721e13a75.jpg" alt="Alpha Smart Pro" /></a></p>
 <p>It’s 7:00 in the morning and I’m sitting in Tanners Spring park in Portland. I like this park a lot. It’s just a single city block, left in it’s ‘natural state’ it’s a marsh that’s you’re not allowed to walk on, that would jack it up. It’s on a slant and there are two little rivulets running through it. It gives a nice sound of running water which empties and a little Koi pond with a boardwalk. There are a handful of metal benches but they’re covered with water this early in the morning and I don’t fancy a wet ass. Luckily there is tiered turf around the edge so I have a place to sit with my Americano while I write.</p>
 <p>November is NANoWriMo; National Novel Writing Month. I wanted to participate but failing sucks too, so instead I’ve just decided to write more.</p>
 <p>I have a pretty basic problem when I write though, I have the attention span of a puppy with ADD. If I’m sitting in front of my computer I don’t stay with AbiWord long enough to finish more than a few paragraphs. This tends to kill my blog posts as well as any real attempt at writing.</p>

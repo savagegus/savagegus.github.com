@@ -1,7 +1,16 @@
 ---
 layout: post
-title: "That ain't good"
+title: That ain't good
 category: posts
+tags:
+- integrated services digital network
+- business
+- device drivers
+- isdn
+- arm architecture
+- telecommunications
+- equipment
+- broadband
 ---
 <p>
   LD [M]  drivers/isdn/hardware/eicon/divacapi.o<br />

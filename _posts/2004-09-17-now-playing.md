@@ -1,7 +1,16 @@
 ---
 layout: post
-title: "Now Playing"
+title: Now Playing
 category: posts
+tags:
+- cron
+- rhythmbox
+- gnome
+- python
+- programming
+- languages
+- perl
+- shell script
 ---
 <p>I wanted to add a dynamic string to my webpage displaying what rhythmbox was currently playing. I asked a few people if they had seen a script that would do this, but the best anyone came up with was looking at the source for the rhythmbox-gaim plugin and going from there. After checking out the plugin I remembered how much I hate c I decieded to try it out in python.</p>
 <p>Since my desktop sits behind a cablemodem and buzzco uses the ip to host buzzco.org I couldn't query my machine whenever my page is loaded. So instead I look up the songinfo through bonobo write that to a file and scp it to my server. Here is the script to get the info and send it:</p>

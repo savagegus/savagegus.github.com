@@ -1,7 +1,16 @@
 ---
 layout: post
-title: "Apple to Aquire Lala"
+title: Apple to Aquire Lala
 category: posts
+tags:
+- apple
+- lala
+- iphone
+- bill nguyen
+- emusic
+- mobileme
+- alexi lalas
+- amazon.com
 ---
 <p><a href="http://www.nytimes.com/2009/12/05/technology/companies/05apple.html?_r=1">Damnit</a>.</p>
 <blockquote>

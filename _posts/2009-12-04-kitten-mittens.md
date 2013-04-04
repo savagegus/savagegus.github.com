@@ -1,7 +1,16 @@
 ---
 layout: post
-title: "Kitten Mittens!"
+title: Kitten Mittens!
 category: posts
+tags:
+- god
+- dreams
+- rss feed
+- hawaii
+- crossfit
+- raheem devaughn
+- librarian
+- geforce
 ---
 <p><a href="http://gifparty.tumblr.com/post/234770360">gifparty</a>:</p>
 <blockquote>

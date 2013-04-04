@@ -1,7 +1,16 @@
 ---
 layout: post
-title: "Sometimes you just gotta try."
+title: Sometimes you just gotta try.
 category: posts
+tags:
+- national novel writing month
+- 2011 big east women's basketball tournament
+- poetry
+- national poetry writing month
+- art
+- writers resources
+- word count
+- online writing
 ---
 <p>
 So I've been thinking about doing this for a month. I'm not sure I really want to but I think it's worth the attempt. <br />

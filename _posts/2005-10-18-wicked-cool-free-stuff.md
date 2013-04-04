@@ -1,7 +1,16 @@
 ---
 layout: post
-title: "Wicked Cool Free Stuff"
+title: Wicked Cool Free Stuff
 category: posts
+tags:
+- wav
+- mp3
+- ipod
+- san francisco
+- internet archive
+- muine
+- multimedia
+- music and audio
 ---
 <p>
 Day 2 of vacation is a success. I got a lot of important sitting around done AND I beat a level in Incredible Hulk for the xbox. Pantloads of fun were had by all. (me). </p>

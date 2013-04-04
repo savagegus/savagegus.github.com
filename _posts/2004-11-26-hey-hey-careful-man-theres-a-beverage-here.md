@@ -1,7 +1,16 @@
 ---
 layout: post
-title: "Hey, hey, careful man! There's a beverage here"
+title: Hey, hey, careful man! There's a beverage here
 category: posts
+tags:
+- salmon
+- fish
+- tin foil
+- lemonade
+- cook
+- fish and seafood
+- home
+- olive oil
 ---
 <p>So another thanksgiving has come and gone. I spent this one in Hydeville, VT with my folks, alicia, and adrian. Dinner was great and it's been relaxing, tristram is coming up later today to chill, so that will be nice too.</p>
 

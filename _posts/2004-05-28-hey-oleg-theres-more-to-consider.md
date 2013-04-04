@@ -1,7 +1,16 @@
 ---
 layout: post
-title: "Hey Oleg, there's more to consider."
+title: Hey Oleg, there's more to consider.
 category: posts
+tags:
+- tax deduction
+- tax credit
+- colorado
+- tax bracket
+- tax return
+- new york
+- tax break
+- sales tax
 ---
 <p>
     			In addition to fuel saving costs and lower emissions there is another benefit to switching to a hybrid vehicle. If you buy one this year you can claim a $1,500 deduction on your 2004 tax return, down from $2,000 for hybrids purchased in 2003. Next year, the deduction will drop to $1,000, and it's scheduled to fall to $500 in 2006. It's also important to note that because it's a deduction the actual value varies, if you're in the 33% tax bracket, a $1,500 deduction will reduce your tax bill by $495. If you're in the 15% tax bracket, it's worth $225.

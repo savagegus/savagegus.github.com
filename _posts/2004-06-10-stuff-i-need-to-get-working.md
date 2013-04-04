@@ -1,7 +1,16 @@
 ---
 layout: post
-title: "Stuff I need to get working"
+title: Stuff I need to get working
 category: posts
+tags:
+- ibook
+- ipod
+- apple
+- iphone
+- ipad
+- ios
+- macintosh
+- itunes
 ---
 <p>
     			So I have decided to sell my g4 iBook. I don't need it anymore really and someone should have it. Plus it wouldn't hurt to have the money. I have to say I'm writing this with a bit of sorrow. I had a lot of trouble with my last iBook (a g3 with 4 major hardware failures in a year before I could get apple to replace it). However I have enjoyed the current one a lot and will miss a lot of the 'just freakin works' parts of it. Almost more I will miss all the really interesting software that people make for this platform. I am heartfelt in my suppport of open software, I just hope the community can become more innovative with the software they write.

@@ -1,9 +1,17 @@
 ---
 layout: post
-title: "Ruby 1.9.2, Jekyll, and OS X"
+title: Ruby 1.9.2, Jekyll, and OS X
 date: 2011-12-28 17:14
 comments: true
 categories: 
+tags:
+- gist
+- gastrointestinal stromal tumor
+- cancer
+- health
+- conditions and diseases
+- musculoskeletal
+- github
+- short code
 ---
-
 {% gist 1530870 %}
